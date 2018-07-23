@@ -27,7 +27,7 @@
   "dependencies": {
     "async-q": "^0.3.1",
     "lodash": "^4.7.0",
-    "lwip": "git+https://github.com/eurobob/lwip.git",
+    "lwip": "0.0.9",
     "lwip-promise": "^0.1.0"
   }
 }
